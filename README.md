@@ -4,6 +4,7 @@ STB mac scanner - Stalker portal mac scanner
 Screenshots:
 
 https://github.com/my-solutions89/stalker-portal-mac-scanner/assets/148385188/db346c83-d2e3-47f8-a635-55d1a99f10a3
+
 https://github.com/my-solutions89/stalker-portal-mac-scanner/assets/148385188/569d4de0-8da9-4831-930a-dc0c0946ba78
 
 
