@@ -1,7 +1,9 @@
 # stb-scanner
 STB mac scanner - Stalker portal mac scanner
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/dGLr8Mt"  ><a href="//imgur.com/a/dGLr8Mt">View in action on imgur!</a></blockquote>
-![Screenshot at Oct 18 21-42-48](https://github.com/my-solutions89/stb-scanner/assets/148385188/2063f77f-0f1f-4df7-a425-81d23d2d70df)  ![Screenshot at Oct 18 21-43-18](https://github.com/my-solutions89/stb-scanner/assets/148385188/2dc71801-7740-42e3-bcef-ec9e11992181)
+Screenshots:
+https://github.com/my-solutions89/stalker-portal-mac-scanner/assets/148385188/db346c83-d2e3-47f8-a635-55d1a99f10a3
+https://github.com/my-solutions89/stalker-portal-mac-scanner/assets/148385188/569d4de0-8da9-4831-930a-dc0c0946ba78
 
 
 
