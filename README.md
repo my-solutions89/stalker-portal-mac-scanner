@@ -1,6 +1,6 @@
 # stb-scanner
 STB mac scanner - Stalker portal mac scanner
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/dGLr8Mt"  ><a href="//imgur.com/a/dGLr8Mt">View in action on imgur!</a></blockquote>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/R7rpJYd"  ><a href="//imgur.com/a/R7rpJYd">View in action on imgur!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 Screenshots:
 
 https://github.com/my-solutions89/stalker-portal-mac-scanner/assets/148385188/db346c83-d2e3-47f8-a635-55d1a99f10a3
